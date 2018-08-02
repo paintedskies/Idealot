@@ -1,0 +1,228 @@
+"country","at_least_basic","limited","unimproved","surface_water","annual_rate_of_change"
+"Angola",41,16,19,24,0.22
+"Anguilla",98,"-",2,0,0.37
+"Antigua and Barbuda",97,"-",3,0,-0.10
+"Argentina",100,"-",0,0,0.04
+"Armenia",99,1,0,0,0.20
+"Aruba",98,"-",2,0,0.23
+"Australia",100,"-",0,0,0.02
+"Austria",100,"-",0,0,0.00
+"Azerbaijan",84,7,6,2,0.53
+"Bahamas",98,"-",2,0,-0.04
+"Bahrain",100,"-",0,0,0.01
+"Bangladesh",97,1,1,1,0.18
+"Barbados",98,0,2,0,-0.03
+"Belarus",98,2,0,0,0.01
+"Belgium",100,"-",0,0,0.00
+"Belize",97,1,2,0,0.64
+"Benin",67,8,21,3,0.46
+"Bermuda",100,"-",0,0,-0.01
+"Bhutan",98,2,0,0,1.11
+"Bolivia (Plurinational State of)",93,0,2,5,0.94
+"Bosnia and Herzegovina",98,2,0,0,0.08
+"Botswana",79,18,1,2,0.15
+"Brazil",97,0,1,1,0.25
+"British Virgin Islands",100,"-",0,0,0.30
+"Brunei Darussalam",100,"-",0,0,"-"
+"Bulgaria",99,"-",1,0,-0.03
+"Burkina Faso",54,22,22,2,0.48
+"Burundi",56,20,17,7,0.23
+"Cabo Verde",86,10,3,0,0.57
+"Cambodia",75,0,12,13,1.50
+"Cameroon",65,10,17,8,0.67
+"Canada",99,"-",1,0,-0.07
+"Caribbean Netherlands","-","-","-","-","-"
+"Cayman Islands",96,"-",4,0,"-"
+"Central African Republic",54,14,29,3,0.14
+"Chad",43,13,39,6,0.24
+"Channel Islands",94,"-",6,0,"-"
+"Chile",100,"-",0,0,0.32
+"China",96,1,3,0,1.22
+"China, Hong Kong Special Administrative Region",100,"-",0,0,0.09
+"China, Macao Special Administrative Region",100,"-",0,0,0.00
+"Colombia",97,0,1,2,0.43
+"Comoros",84,6,10,1,-0.18
+"Congo",68,13,11,8,0.77
+"Cook Islands",100,"-",0,0,0.00
+"Costa Rica",100,0,0,0,0.39
+"Côte d'Ivoire",73,7,15,5,0.08
+"Croatia",100,"-",0,0,0.07
+"Cuba",95,2,2,0,0.14
+"Curaçao",99,"-",1,0,"-"
+"Cyprus",100,"-",0,0,0.00
+"Czech Republic",100,"-",0,0,0.00
+"Democratic People's Republic of Korea",100,0,0,0,-0.02
+"Democratic Republic of the Congo",42,12,36,10,0.50
+"Denmark",100,"-",0,0,0.00
+"Djibouti",77,15,6,2,0.14
+"Dominica",97,"-",4,0,0.20
+"Dominican Republic",94,2,2,1,0.23
+"Ecuador",93,0,3,4,0.63
+"Egypt",98,0,1,0,0.01
+"El Salvador",93,4,0,3,0.85
+"Equatorial Guinea",50,2,35,13,0.05
+"Eritrea",19,43,16,21,0.16
+"Estonia",100,"-",0,0,0.03
+"Ethiopia",39,25,25,12,1.49
+"Falkland Islands (Malvinas)",95,"-",5,0,"-"
+"Faroe Islands",100,"-",0,0,0.00
+"Fiji",94,"-",4,2,-0.06
+"Finland",100,"-",0,0,0.00
+"France",100,"-",0,0,0.01
+"French Guiana",93,"-",7,0,"-"
+"French Polynesia",100,"-",0,0,0.00
+"Gabon",88,6,3,4,0.59
+"Gambia",80,10,10,0,0.41
+"Georgia",93,5,2,0,0.31
+"Germany",100,"-",0,0,0.00
+"Ghana",78,11,5,6,0.90
+"Gibraltar",100,"-",0,0,0.00
+"Greece",100,"-",0,0,0.04
+"Greenland",100,"-",0,0,0.00
+"Grenada",96,1,0,3,0.15
+"Guadeloupe",100,"-",0,0,"-"
+"Guam",100,"-",0,0,0.02
+"Guatemala",94,1,4,2,0.54
+"Guinea",67,11,10,11,0.86
+"Guinea-Bissau",69,5,25,1,1.09
+"Guyana",95,1,1,2,0.45
+"Haiti",64,7,29,0,0.52
+"Holy See","-","-","-","-","-"
+"Honduras",92,1,5,2,0.66
+"Hungary",100,"-",0,0,0.00
+"Iceland",100,"-",0,0,0.00
+"India",88,4,7,1,0.48
+"Indonesia",90,1,8,2,1.00
+"Iran (Islamic Republic of)",95,2,3,0,-0.01
+"Iraq",86,9,2,3,0.32
+"Ireland",99,"-",1,0,0.19
+"Isle of Man",96,"-",4,0,"-"
+"Israel",100,"-",0,0,0.00
+"Italy",100,"-",0,0,0.00
+"Jamaica",93,3,2,2,0.14
+"Japan",99,"-",1,0,0.03
+"Jordan",99,"-",1,0,-0.07
+"Kazakhstan",91,5,3,0,0.33
+"Kenya",58,9,10,23,0.80
+"Kiribati",64,1,35,0,0.24
+"Kuwait",100,0,0,0,0.00
+"Kyrgyzstan",87,2,2,9,0.46
+"Lao People's Democratic Republic",80,1,14,4,2.31
+"Latvia",99,1,1,0,0.06
+"Lebanon",92,7,0,0,0.46
+"Lesotho",72,12,16,1,0.35
+"Liberia",70,7,6,17,0.55
+"Libya",97,"-",3,0,"-"
+"Liechtenstein",100,"-",0,0,0.00
+"Lithuania",97,"-",3,0,0.49
+"Luxembourg",100,"-",0,0,0.00
+"Madagascar",51,3,31,16,0.93
+"Malawi",67,20,10,3,1.04
+"Malaysia",96,0,3,0,-0.11
+"Maldives",98,0,2,0,0.62
+"Mali",74,6,18,2,1.67
+"Malta",100,"-",0,0,0.00
+"Marshall Islands",78,21,1,0,"-"
+"Martinique",100,"-",0,0,0.02
+"Mauritania",70,15,15,0,1.07
+"Mauritius",100,0,0,0,0.04
+"Mayotte",98,"-",2,0,"-"
+"Mexico",98,0,1,0,0.60
+"Micronesia (Federated States of)",88,"-",12,0,-0.28
+"Monaco",100,"-",0,0,0.00
+"Mongolia",83,7,5,5,1.21
+"Montenegro",98,2,0,0,"-"
+"Montserrat",97,"-",3,0,-0.16
+"Morocco",83,7,7,3,1.26
+"Mozambique",47,14,24,14,1.67
+"Myanmar",68,13,10,9,0.85
+"Namibia",79,6,5,10,0.09
+"Nauru",100,0,0,0,0.33
+"Nepal",88,2,7,3,0.55
+"Netherlands",100,"-",0,0,0.00
+"New Caledonia",99,"-",1,0,0.30
+"New Zealand",100,"-",0,0,0.00
+"Nicaragua",82,1,13,3,0.11
+"Niger",46,10,42,2,0.52
+"Nigeria",67,9,15,8,1.42
+"Niue",98,"-",2,0,-0.07
+"Northern Mariana Islands",99,"-",1,0,0.03
+"Norway",100,"-",0,0,0.00
+"Oman",91,9,0,0,"-"
+"Pakistan",89,3,6,2,-0.03
+"Palau",100,"-",0,0,0.53
+"Panama",95,1,3,1,0.45
+"Papua New Guinea",37,2,20,42,-0.01
+"Paraguay",99,0,1,0,1.59
+"Peru",90,1,6,3,0.62
+"Philippines",91,3,6,1,0.29
+"Poland",98,"-",2,0,"-"
+"Portugal",100,"-",0,0,0.09
+"Puerto Rico",97,"-",3,0,0.00
+"Qatar",100,"-",0,0,0.00
+"Republic of Korea",100,"-",0,0,"-"
+"Republic of Moldova",87,1,12,0,0.18
+"Réunion",100,"-",1,0,0.00
+"Romania",100,"-",0,0,0.00
+"Russian Federation",96,1,3,0,0.07
+"Rwanda",57,21,15,8,0.65
+"Saint Helena",99,"-",1,0,"-"
+"Saint Kitts and Nevis","-","-","-","-","-"
+"Saint Lucia",98,2,0,0,0.65
+"Saint Pierre and Miquelon",91,"-",9,0,"-"
+"Saint Vincent and the Grenadines",95,"-",4,1,0.13
+"Samoa",96,2,2,0,0.17
+"San Marino",100,0,0,0,0.00
+"Sao Tome and Principe",80,15,2,2,0.85
+"Saudi Arabia",100,"-",0,0,0.21
+"Senegal",75,5,19,0,0.90
+"Serbia",91,8,1,0,-0.04
+"Seychelles",96,"-",0,4,0.20
+"Sierra Leone",58,9,17,16,1.29
+"Singapore",100,"-",0,0,0.00
+"Sint Maarten (Dutch part)",96,"-",5,0,"-"
+"Slovakia",98,2,0,0,0.00
+"Slovenia",100,"-",0,0,-0.01
+"Solomon Islands",64,4,17,15,-1.08
+"Somalia",40,19,29,12,1.29
+"South Africa",85,10,2,3,0.51
+"South Sudan",50,30,13,7,"-"
+"Spain",100,"-",0,0,0.00
+"Sri Lanka",92,3,5,0,0.99
+"Sudan",59,26,6,9,1.03
+"Suriname",95,1,1,4,0.39
+"Swaziland",68,8,10,15,1.03
+"Sweden",100,"-",0,0,0.00
+"Switzerland",100,"-",0,0,0.00
+"Syrian Arab Republic",97,2,1,0,0.13
+"Tajikistan",74,4,3,18,1.13
+"Thailand",98,1,1,0,0.27
+"The former Yugoslav Republic of Macedonia",97,3,1,0,-0.07
+"Timor-Leste",70,6,18,6,"-"
+"Togo",63,6,18,14,1.16
+"Tokelau",100,"-",0,0,0.07
+"Tonga",100,"-",0,0,0.09
+"Trinidad and Tobago",97,1,2,0,0.34
+"Tunisia",94,4,1,0,0.44
+"Turkey",99,"-",1,0,0.23
+"Turkmenistan",94,5,0,0,0.70
+"Turks and Caicos Islands",94,"-",6,0,0.52
+"Tuvalu",99,"-",1,0,"-"
+"Uganda",39,38,15,8,0.59
+"Ukraine",98,2,0,0,0.14
+"United Arab Emirates",100,"-",0,0,0.00
+"United Kingdom",100,"-",0,0,0.00
+"United Republic of Tanzania",50,13,24,13,1.24
+"United States Virgin Islands",100,"-",0,0,0.00
+"United States of America",99,"-",1,0,"-"
+"Uruguay",99,1,0,0,0.17
+"Uzbekistan","-","-","-","-","-"
+"Vanuatu",91,1,2,6,0.59
+"Venezuela (Bolivarian Republic of)",97,"-",2,1,0.09
+"Viet Nam",91,3,5,0,0.89
+"Wallis and Futuna Islands",100,"-",0,0,-0.01
+"West Bank and Gaza Strip",88,0,12,0,-0.04
+"Western Sahara","-","-","-","-","-"
+"Yemen",70,21,4,5,1.84
+"Zambia",61,6,21,12,0.84
+"Zimbabwe",67,10,17,7,-0.25

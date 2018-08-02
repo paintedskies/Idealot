@@ -1,0 +1,27 @@
+Idealot is an web based application that allows users to find their ideal area to live in. Users can filter based on a variety of factors that affect living conditions. Few Filter Options available are:
+
+Filter based on the intensity of Air Pollution. On Selecting the Filter, the Map highlights the areas, [COLOR] being lowest in air Pollution and [COLOR] being highest in Pollution Index.
+
+Filter Based on Temperature Index. Find the ideal temperature to be able to live in. [COLOR] being cold and [COLOR] being hottest.
+
+Filter Based on access to clean water and Santition. Ranging from [COLOR] being low access to clean water to [COLOR] being good access to clean water.
+
+Potential home owners have to research on a lot of factors not just concerning the house but the surrounding areas as well. Idealot makes it easier by having a visualization of the most important factors that might effect a new home owner's decision. 
+
+
+Our Application makes use of trusted data from open data sites such as NASA, [WEBSITE] & [WEBSITE].
+
+[EMBED VIDEO LINK] 
+
+The Idealot team went an extra mile (lot?) to get feedback regarding the  User Interface and Features from the target Audience. Our target audience consists of potential homeowners as well as people looking to move into a new location. 
+We also approached the students from our local University to get their feedback and opinions. 
+The results from the survey indicated that [PERCENTAGE] of people had to research about [TIME] and ask people in the area before making the move. 
+Also, around [PERCENTAGE] of people found it difficult to find information regarding basic factors such as water sanitation & air pollution.
+
+Links:
+Idealot Video Walkthrough
+Idealot Documentation & Code Repository 
+Idealot Live Application 
+Idealot Survey Results
+
+

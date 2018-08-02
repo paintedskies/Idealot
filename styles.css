@@ -1,0 +1,301 @@
+body {
+  overflow-x: hidden;
+  font-family: 'Roboto Slab', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+p {
+  line-height: 1.75;
+}
+
+
+a:hover {
+  color: #f67280;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: 700;
+  font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+/*
+section {
+  padding: 100px 0;
+}*/
+
+section h2.section-heading {
+  font-size: 40px;
+  color: #35477d;
+    margin-top: 3%;
+
+  margin-bottom: 15px;
+}
+section h2.section-heading2 {
+  font-size: 40px;
+  margin-top: 7%;
+  color: #35477d;
+  margin-bottom: 15px;
+}
+
+
+section h3.section-subheading {
+  font-size: 16px;
+  font-weight: 400;
+  font-style: italic;
+  margin-bottom: 75px;
+  text-transform: none;
+  font-family: 'Droid Serif', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+/*@media (min-width: 768px) {
+  section {
+    padding: 150px 0;
+  }
+}*/
+
+
+
+.btn {
+  font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-weight: 700;
+}
+
+.btn-xl {
+  font-size: 18px;
+  padding: 20px 40px;
+}
+
+.btn-primary {
+  background-color: #35477d;
+  border-color: #35477d;
+}
+
+.btn-primary:active, .btn-primary:focus, .btn-primary:hover {
+  background-color: #f67280 !important;
+  border-color: #f67280 !important;
+  color: white;
+}
+
+
+::-moz-selection {
+  background: #f4adad;
+  text-shadow: none;
+}
+
+::selection {
+  background: #f4adad;
+  text-shadow: none;
+}
+
+img::selection {
+  background: transparent;
+}
+
+img::-moz-selection {
+  background: transparent;
+}
+
+#mainNav {
+  background-color: #ffffff;
+}
+
+#mainNav .navbar-toggler {
+  font-size: 12px;
+  right: 0;
+  padding: 13px;
+  text-transform: uppercase;
+  color: white;
+  border: 0;
+  background-color: #f67280;
+  font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+#mainNav .navbar-brand {
+  color: #fed136;
+  font-family: 'Kaushan Script', 'Helvetica Neue', Helvetica, Arial, cursive;
+}
+
+#mainNav .navbar-brand.active, #mainNav .navbar-brand:active, #mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
+  color: #f67280;
+}
+
+#mainNav .navbar-nav .nav-item .nav-link {
+  font-size: 90%;
+  font-weight: 400;
+  padding: 0.75em 0;
+  letter-spacing: 1px;
+  color: #35477d;
+  font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+#mainNav .navbar-nav .nav-item .nav-link.active, #mainNav .navbar-nav .nav-item .nav-link:hover {
+  color: #f67280;
+}
+
+@media (min-width: 992px) {
+  #mainNav {
+    padding-top: 8px;
+
+    padding-bottom: 5px;
+    -webkit-transition: padding-top 0.3s, padding-bottom 0.3s;
+    -moz-transition: padding-top 0.3s, padding-bottom 0.3s;
+    transition: padding-top 0.3s, padding-bottom 0.3s;
+    border: none;
+    background-color: transparent;
+  }
+  #mainNav .navbar-brand {
+    font-size: 1.75em;
+    -webkit-transition: all 0.3s;
+    -moz-transition: all 0.3s;
+    transition: all 0.3s;
+  }
+  #mainNav .navbar-nav .nav-item .nav-link {
+    padding: 1.1em 1em !important;
+  }
+  #mainNav.navbar-shrink {
+    padding-top: 0;
+    padding-bottom: 0;
+    background-color: #212529;
+  }
+  #mainNav.navbar-shrink .navbar-brand {
+    font-size: 1.25em;
+    padding: 12px 0;
+  }
+}
+
+header.masthead {
+  text-align: center;
+  color: white;
+  background-image: url("nasa2.jpg");
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-position: center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+header.masthead .intro-text {
+  padding-top: 150px;
+  padding-bottom: 100px;
+}
+
+header.masthead .intro-text .intro-lead-in {
+  font-size: 22px;
+  line-height: 22px;
+  margin-bottom: 25px;
+  font-family: 'Droid Serif', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+header.masthead .intro-text .intro-heading {
+  font-size: 50px;
+  font-weight: 700;
+  line-height: 50px;
+  margin-bottom: 25px;
+  font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+@media (min-width: 768px) {
+  header.masthead .intro-text {
+    padding-top: 300px;
+    padding-bottom: 200px;
+  }
+  header.masthead .intro-text .intro-lead-in {
+    font-size: 40px;
+    line-height: 40px;
+    margin-bottom: 25px;
+    font-family: 'Droid Serif', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  }
+  header.masthead .intro-text .intro-heading {
+    font-size: 75px;
+    font-weight: 700;
+    line-height: 75px;
+    margin-bottom: 40px;
+    font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  }
+}
+
+.features {
+  margin: 15px 0;
+  text-transform: none;
+}
+
+.team-member img {
+    width: 225px;
+    height: 225px;
+    border: 7px solid #fff;
+}
+
+.logoimg{
+  height: 50px
+}
+
+.icon{
+  height: 150px
+
+}
+
+.margine{
+  margin-right: 20%;
+  margin-left: 20%;
+}
+
+.top-marg{
+  margin-top: 8%;
+}
+.top-marg2{
+  margin-top: 20%;
+}
+
+
+.left-marg{
+  margin-left: 10%;
+}
+
+.top-marg3{
+  margin-top: 5px;
+  padding: 0px 0;
+}
+
+.cen{
+  margin-top: 25px;
+    font-size: 16px;
+  font-weight: 400;
+  font-style: italic;
+}
+.cen2{
+    font-size: 16px;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.cen3{
+    font-size: 16px;
+  font-weight: 400;
+  font-style: italic;
+    margin-bottom: 50px;
+
+}
+
+#team{
+    padding: 50px 0;
+    margin-bottom: none;
+    padding-bottom: 50px;
+
+}
+
+.botmar{
+  margin-bottom: 50px;
+}
+
+.section-heading3{
+      margin-top: 6%;
+  font-size: 40px;
+
+ color: #35477d;
+  margin-bottom: 15px;
+
+}
